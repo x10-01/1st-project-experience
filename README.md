@@ -1,5 +1,5 @@
 # 1st-project-experience
-it's my first project, i‘ll record my all my experience, even if it is foolish. I believe myself
+
 
 了解单片机
 1.什么是单片机
